@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+.carousel-item img{
+    height: 88vh!important;
+  
+  }
+.manu-card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.card-body
+{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+.contact-icon ul li i{
+    font-size: 30px;
+   
+    border-radius: 50%;
+    padding: 6px 10px ;
+    margin-bottom: 10px;
+  
+
+}
